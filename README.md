@@ -1,12 +1,13 @@
 # Checkmk extension for ...
 
-![build](https://github.com/jiuka/checkmk_phion/workflows/build/badge.svg)
-![flake8](https://github.com/jiuka/checkmk_phion/workflows/Lint/badge.svg)
-![pytest](https://github.com/jiuka/checkmk_phion/workflows/pytest/badge.svg)
+![build](https://github.com/m4c3/check_rdp/workflows/build/badge.svg)
+![flake8](https://github.com/m4c3/check_rdp/workflows/Lint/badge.svg)
+![pytest](https://github.com/m4c3/check_rdp/workflows/pytest/badge.svg)
 
 ## Description
 
-This is a template to develop Checkmk Extensions
+This is a checkmk extension to check if a rpd connection to a windows system is possible.
+This extension uses check_x224 from Troels Arvin
 
 ## Development
 
